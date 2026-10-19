@@ -1,0 +1,6 @@
+{
+  "name": "FORGE — Personal Fitness Tracker",
+  "description": "Train with purpose. Measure your progress. High-performance strength, running, and body composition tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
